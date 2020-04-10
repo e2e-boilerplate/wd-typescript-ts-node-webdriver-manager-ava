@@ -1,6 +1,5 @@
 /* eslint-disable global-require */
-
-async function config(url, browser) {
+async function config(url: string, browser: any) {
   return process.env.GITHUB_ACTIONS
     ? browser
         .init({
@@ -18,4 +17,4 @@ async function config(url, browser) {
         .get(url);
 }
 
-module.exports = config;
+export default config;
