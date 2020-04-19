@@ -12,7 +12,7 @@
     "url": "https://github.com/e2e-boilerplate/wd-typescript-ts-node-webdriver-manager-ava/issues"
   },
   "dependencies": {
-    "ava": "3.7.0",
+    "ava": "3.7.1",
     "chai-as-promised": "7.1.1",
     "ts-node": "8.8.2",
     "typescript": "3.8.3",
