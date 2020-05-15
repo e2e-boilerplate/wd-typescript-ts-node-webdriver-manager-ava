@@ -21,7 +21,6 @@
   },
   "description": "WD end-to-end test automation boilerplate. Using TypeScript, ts-node, Webdriver-Manager and AVA.",
   "devDependencies": {
-    "@ava/babel": "1.0.1",
     "@types/node": "13.13.6",
     "husky": "4.2.5",
     "lint-staged": "10.2.2",
