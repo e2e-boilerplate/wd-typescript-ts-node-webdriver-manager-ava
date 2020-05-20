@@ -15,13 +15,13 @@
     "ava": "3.8.2",
     "chai-as-promised": "7.1.1",
     "ts-node": "8.10.1",
-    "typescript": "3.9.2",
+    "typescript": "3.9.3",
     "wd": "1.12.1",
     "webdriver-manager": "12.1.7"
   },
   "description": "WD end-to-end test automation boilerplate. Using TypeScript, ts-node, Webdriver-Manager and AVA.",
   "devDependencies": {
-    "@types/node": "13.13.7",
+    "@types/node": "13.13.8",
     "husky": "4.2.5",
     "lint-staged": "10.2.4",
     "prettier": "2.0.4",
