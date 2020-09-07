@@ -2,7 +2,7 @@
     
 # WD Boilerplate
     
-WD end-to-end test automation boilerplate, Using [TypeScript](https://www.typescriptlang.org), [ts-jest](https://github.com/TypeStrong/ts-node), [Webdriver-Manager](https://github.com/angular/webdriver-manager#readme) and [AVA](https://github.com/avajs/ava).
+WD end-to-end test automation boilerplate, Using [TypeScript](https://www.typescriptlang.org), [ts-jest](https://github.com/TypeStrong/ts-node), [Webdriver-Manager](https://github.com/angular/webdriver-manager#readme) and [AVA](https://github.com/avajs/ava).. Clone or fork this repository.
     
 ## Getting Started
     
